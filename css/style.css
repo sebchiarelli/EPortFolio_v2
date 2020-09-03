@@ -18,7 +18,8 @@ span{
     margin-top: 10px;    
 }
 .container, h1{
-    float: left;  
+    float: left;
+	margin-left: 15px;
 }
 ul, li, p, h1, h2, nav, button, .container, .image-container{
    background-image: none;
