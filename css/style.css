@@ -8,6 +8,7 @@
 
 body{
     background-image:none;
+    margin:0;
 }
 img{
     width: 155.95px;
@@ -24,7 +25,8 @@ ul, li, p, h1, h2, nav, button, .container, .image-container{
 }
 
 .nav{
-    height:50px;
+    height:10%;
+    top:0;
     width: auto;
 }
 .vanish{
@@ -38,7 +40,7 @@ button{
     font-size:medium;
     border:none;
     width: 33.333333%;
-    height: 50px; 
+    height:100%;
     float: right;
     border: 3px, solid, rgb(150, 150, 200);
     background-color: rgba(107, 111, 149, 0.438);
